@@ -1,0 +1,46 @@
+.login {
+  width: 100%;
+  text-align: center;
+  padding: 0 5%;
+}
+.login h1 {
+  margin-bottom: 0.5rem;
+  font-size: 2.5rem;
+}
+.login h3 {
+  margin-bottom: 2rem;
+}
+.login-form {
+  width: 80%;
+  margin: 0 auto;
+}
+.input-feild {
+  width: 100%;
+  padding: 2% 0 2% 10px;
+  font-size: 1.2rem;
+  margin: 1rem 0;
+  border: none;
+  border-radius: 0;
+  border-bottom: 1px solid black;
+}
+.options-div {
+  width: 100%;
+  display: flex;
+  margin: 1rem 0;
+  justify-content: space-between;
+}
+.login-submit-btn {
+  padding: 0.5rem 0;
+  background-color: rgb(66, 227, 248);
+  font-size: 1.5rem;
+  width: 60%;
+  border-radius: 2rem;
+  color: white;
+}
+#checkbox {
+  transform: scale(1.5);
+  margin-right: 10px;
+}
+#fpwd {
+  color: blue;
+}

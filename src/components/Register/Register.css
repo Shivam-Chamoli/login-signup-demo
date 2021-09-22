@@ -1,0 +1,44 @@
+.register {
+  width: 100%;
+  text-align: center;
+  padding: 0 5%;
+}
+.register-form {
+  width: 80%;
+  margin: 0 auto;
+}
+.register h1 {
+  margin-bottom: 0.5rem;
+  font-size: 2.5rem;
+}
+.register h3 {
+  margin-bottom: 2rem;
+}
+input:focus,
+textarea:focus,
+select:focus {
+  outline: none;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+  -moz-appearance: textfield;
+}
+.input-feild-register {
+  width: 100%;
+  padding: 2% 0 2% 10px;
+  font-size: 1.2rem;
+  margin: 1rem 0;
+  border: none;
+  border-radius: 0;
+  border-bottom: 1px solid black;
+}
+.register-submit-btn {
+  padding: 0.5rem 0;
+  background-color: rgb(66, 227, 248);
+  font-size: 1.5rem;
+  width: 60%;
+  border-radius: 2rem;
+  color: white;
+}

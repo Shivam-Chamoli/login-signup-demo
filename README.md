@@ -2,7 +2,7 @@
 
 The app is a front end of a login/signup system, created using React JS, HTML and CSS.
 
-#This project is hosted in firebase, at https://login-signup-sep-2021.web.app/
+# This project is hosted in firebase, at https://login-signup-sep-2021.web.app/
 
 The app registers the users by saving their data as json objects in the browsers local storage and retrieves it as a list during displaying all users. 
 On sucessful login , it displays the data of the useres stored in local storage in table format.
